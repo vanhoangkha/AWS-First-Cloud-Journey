@@ -10,7 +10,7 @@
 
 #### **II. Tổng Quan Chương Trình:**
 
-1. **Mission 1: Tạo Tài Khoản AWS & Học Cơ Bản Về AWS**
+1. **Tạo Tài Khoản AWS & Học Cơ Bản Về AWS**
    - **1.1 Tạo AWS Account:**
      - Thực hiện qua hướng dẫn tạo tài khoản AWS.
      - Thực hành: [Lab Tạo Tài Khoản AWS](https://000001.awsstudygroup.com/vi/)
@@ -25,13 +25,13 @@
      - Hoàn thành 1 workshop, nộp qua Drive hoặc GitHub.
      - Video hướng dẫn: [Workshop Submission](https://www.youtube.com/watch?v=mXRqgMr_97U)
 
-2. **Mission 2: AWS Cloud Practitioner Essentials**
+2. **AWS Cloud Practitioner Essentials**
    - Tham gia khóa học: [Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
    - **Nội Dung:**
      - Giới thiệu AWS, quản lý tài khoản, tối ưu chi phí.
      - Các dịch vụ chính: **EC2**, **VPC**, **S3**, **IAM**.
 
-3. **Mission 3: Kiến Trúc Cloud Computing**
+3. **Kiến Trúc Cloud Computing**
    - **Buổi 1: AWS Basics**
      - **Nội dung:** AWS Management Console, CLI, AWS Support.
    - **Buổi 2: Mạng Trong AWS**
