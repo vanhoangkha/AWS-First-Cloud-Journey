@@ -18,7 +18,7 @@
      - Xem video hướng dẫn viết workshop: [Cách Viết Lab Guide](https://van-hoang-kha.github.io/vi/)
      - Thực hiện workshop mẫu.
    - **1.3 Vẽ Kiến Trúc AWS:**
-     - Sử dụng draw.io để vẽ kiến trúc AWS.
+     - Sử dụng draw.io để vẽ kiến trúc [AWS](https://www.youtube.com/watch?v=l8isyDe-GwY&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=2)
      - Tải mẫu: [Icons AWS](https://aws.amazon.com/architecture/icons/)
      - Thực hành vẽ kiến trúc qua [Kiến Trúc Mẫu](https://drive.google.com/file/d/1nuxHzSKWq7tCv6sCyEYTInWn1anVkTNr/view)
    - **1.4 Thử Thách Workshop:**
